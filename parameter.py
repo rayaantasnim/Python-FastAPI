@@ -73,3 +73,4 @@ def get_products_by_price(price: int):
             "message": "Product not found"
         }
     return products
+
